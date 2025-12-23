@@ -1,0 +1,15 @@
+imax *
+jmax *
+kmax *
+------------
+shapes * * templates.root $CHANNEL/$PROCESS
+------------
+bin combined
+observation -1
+------------
+bin	combined	combined	combined	combined	combined	combined	combined	combined
+process	W+jets	Z+jets	diboson	top	toponium_dileptonic	ttbar+ZorW	ttbar_smeft	ttbar_smeft_other
+process	1	2	3	4	5	6	0	7
+rate	-1	-1	-1	-1	-1	-1	-1	-1
+------------
+* autoMCStats 1 1
