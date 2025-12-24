@@ -161,7 +161,7 @@ def make_stack_ratio_plot(outpath, xedges, data_u, mc_u_hists, mc_order, xlabel)
     )
 
     ax.set_ylabel("Events / bin width", labelpad=12)
-    ax.legend(loc="upper left", ncol=2, frameon=False, fontsize=10)
+    ax.legend(loc="upper right", ncol=2, frameon=False, fontsize=10)
 
     # ---- RATIO ----
     ratio = data_d / mc_tot

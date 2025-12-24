@@ -1,0 +1,63 @@
+============================================================
+Analyzing bin errors for: prop_bincombined
+Poisson cut-off: 1
+============================================================
+Bin        Contents        Error           Notes                         
+0          83408.668633    288.805590      total sum                     
+0          83409.000000    288.806163      Unweighted events, alpha=0.999996
+  => Total parameter prop_bincombined_bin0[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+1          99134.750643    314.856714      total sum                     
+1          99135.000000    314.857110      Unweighted events, alpha=0.999997
+  => Total parameter prop_bincombined_bin1[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+2          113197.990860   336.449091      total sum                     
+2          113198.000000   336.449105      Unweighted events, alpha=1.000000
+  => Total parameter prop_bincombined_bin2[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+3          130449.501549   361.177936      total sum                     
+3          130450.000000   361.178626      Unweighted events, alpha=0.999996
+  => Total parameter prop_bincombined_bin3[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+4          154942.548111   393.627423      total sum                     
+4          154943.000000   393.627997      Unweighted events, alpha=0.999997
+  => Total parameter prop_bincombined_bin4[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+5          174575.294815   417.822085      total sum                     
+5          174575.000000   417.821732      Unweighted events, alpha=1.000002
+  => Total parameter prop_bincombined_bin5[0.00,-7.00,7.00] to be Gaussian constrained
+------------------------------------------------------------
+Assuming parameter ctGRe[0,-50,50] is to be a POI (name: ctGRe)
+Assuming parameter ctGIm[0,-50,50] is to be a POI (name: ctGIm)
+Assuming parameter cQj18[0,-50,50] is to be a POI (name: cQj18)
+Assuming parameter cQj38[0,-50,50] is to be a POI (name: cQj38)
+Assuming parameter cQj11[0,-50,50] is to be a POI (name: cQj11)
+Assuming parameter cQj31[0,-50,50] is to be a POI (name: cQj31)
+Assuming parameter ctu8[0,-50,50] is to be a POI (name: ctu8)
+Assuming parameter ctd8[0,-50,50] is to be a POI (name: ctd8)
+Assuming parameter ctj8[0,-50,50] is to be a POI (name: ctj8)
+Assuming parameter cQu8[0,-50,50] is to be a POI (name: cQu8)
+Assuming parameter cQd8[0,-50,50] is to be a POI (name: cQd8)
+Assuming parameter ctu1[0,-50,50] is to be a POI (name: ctu1)
+Assuming parameter ctd1[0,-50,50] is to be a POI (name: ctd1)
+Assuming parameter ctj1[0,-50,50] is to be a POI (name: ctj1)
+Assuming parameter cQu1[0,-50,50] is to be a POI (name: cQu1)
+Assuming parameter cQd1[0,-50,50] is to be a POI (name: cQd1)
+All POIs: ['ctGRe', 'ctGIm', 'cQj18', 'cQj38', 'cQj11', 'cQj31', 'ctu8', 'ctd8', 'ctj8', 'cQu8', 'cQd8', 'ctu1', 'ctd1', 'ctj1', 'cQu1', 'cQd1']
+Will scale combined/W+jets by 1
+Will scale combined/Z+jets by 1
+Will scale combined/diboson by 1
+Will scale combined/top by 1
+Will scale combined/toponium_dileptonic by 1
+Will scale combined/ttbar+ZorW by 1
+Will scale combined/ttbar_smeft using CMSInterferenceFunc dependent on parameters ['cSM[1]', 'ctGRe[0,-50,50]', 'ctGIm[0,-50,50]', 'cQj18[0,-50,50]', 'cQj38[0,-50,50]', 'cQj11[0,-50,50]', 'cQj31[0,-50,50]', 'ctu8[0,-50,50]', 'ctd8[0,-50,50]', 'ctj8[0,-50,50]', 'cQu8[0,-50,50]', 'cQd8[0,-50,50]', 'ctu1[0,-50,50]', 'ctd1[0,-50,50]', 'ctj1[0,-50,50]', 'cQu1[0,-50,50]', 'cQd1[0,-50,50]']
+Will scale combined/ttbar_smeft_other by 1
+Channel combined will use autoMCStats with settings: event-threshold=1, include-signal=1, hist-mode=1
+Will scale combined/W+jets by 1
+Will scale combined/Z+jets by 1
+Will scale combined/diboson by 1
+Will scale combined/top by 1
+Will scale combined/toponium_dileptonic by 1
+Will scale combined/ttbar+ZorW by 1
+Will scale combined/ttbar_smeft using CMSInterferenceFunc dependent on parameters ['cSM[1]', 'ctGRe[0,-50,50]', 'ctGIm[0,-50,50]', 'cQj18[0,-50,50]', 'cQj38[0,-50,50]', 'cQj11[0,-50,50]', 'cQj31[0,-50,50]', 'ctu8[0,-50,50]', 'ctd8[0,-50,50]', 'ctj8[0,-50,50]', 'cQu8[0,-50,50]', 'cQd8[0,-50,50]', 'ctu1[0,-50,50]', 'ctd1[0,-50,50]', 'ctj1[0,-50,50]', 'cQu1[0,-50,50]', 'cQd1[0,-50,50]']
+Will scale combined/ttbar_smeft_other by 1
