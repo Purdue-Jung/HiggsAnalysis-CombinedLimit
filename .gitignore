@@ -3,4 +3,4 @@
 .python/
 build/
 install/
-site
+site.ipynb_checkpoints/

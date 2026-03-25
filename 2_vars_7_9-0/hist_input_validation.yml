@@ -1,0 +1,61 @@
+variables:
+  ll_cHel:
+    - [-1.0, -0.6667, -0.3333, 0.0, 0.3333, 0.6667, 1.0]
+
+  ttbar_mass:
+    - [0.0, 360.0, 380.0, 400.0, 700.0, 800.0, 900.0, 1100.0, 1200.0]
+
+eft:
+  wc_names:
+    - ctGRe
+    - ctGIm
+    - cQj18
+    - cQj38
+    - cQj11
+    - cQj31
+    - ctu8
+    - ctd8
+    - ctj8
+    - cQu8
+    - cQd8
+    - ctu1
+    - ctd1
+    - ctj1
+    - cQu1
+    - cQd1
+
+  # wc_start:
+  #   ctGRe: -0.5
+  #   ctGIm: -0.5
+  #   cQj18:  1.5
+  #   cQj38:  1.5
+  #   cQj11:  1.5
+  #   cQj31:  1.5
+  #   ctu8:   1.5
+  #   ctd8:   1.5
+  #   ctj8:   1.5
+  #   cQu8:   1.5
+  #   cQd8:   1.5
+  #   ctu1:   1.5
+  #   ctd1:   1.5
+  #   ctj1:   1.5
+  #   cQu1:   1.5
+  #   cQd1:   1.5
+
+  wc_start:
+    ctGRe:  0.0
+    ctGIm:  0.0
+    cQj18:  0.0
+    cQj38:  0.0
+    cQj11:  0.0
+    cQj31:  0.0
+    ctu8:   0.0
+    ctd8:   0.0
+    ctj8:   0.0
+    cQu8:   0.0
+    cQd8:   0.0
+    ctu1:   0.0
+    ctd1:   0.0
+    ctj1:   0.0
+    cQu1:   0.0
+    cQd1:   0.0

@@ -1,0 +1,44 @@
+{
+    "combined": {
+        "W+jets": {
+            "Nominal Value": 295.49495124816895,
+            "Std Dev": 17.18996658659257
+        },
+        "Z+jets": {
+            "Nominal Value": 24994.94873046875,
+            "Std Dev": 158.0979086846779
+        },
+        "data_obs": {
+            "Nominal Value": 888931.0,
+            "Std Dev": 942.8313741067382
+        },
+        "diboson": {
+            "Nominal Value": 716.3890380859375,
+            "Std Dev": 26.76544485126181
+        },
+        "top": {
+            "Nominal Value": 34468.14501953125,
+            "Std Dev": 185.65598568193607
+        },
+        "toponium_dileptonic": {
+            "Nominal Value": 5700.840042114258,
+            "Std Dev": 75.50390746255626
+        },
+        "ttbar+ZorW": {
+            "Nominal Value": 2347.120849609375,
+            "Std Dev": 48.44709330402986
+        },
+        "ttbar_smeft": {
+            "Nominal Value": 685306.734375,
+            "Std Dev": 827.832552135394
+        },
+        "ttbar_smeft_other": {
+            "Nominal Value": 1879.0816040039062,
+            "Std Dev": 43.34837487154399
+        },
+        "MC_total": {
+            "Nominal Value": 755708.7546100616,
+            "Std Dev": 869.3151066270858
+        }
+    }
+}
